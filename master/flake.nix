@@ -11,6 +11,7 @@
   inputs.src-base62-master.ref   = "refs/heads/master";
   inputs.src-base62-master.owner = "singularperturbation";
   inputs.src-base62-master.repo  = "base62-encode";
+  inputs.src-base62-master.dir   = "";
   inputs.src-base62-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
