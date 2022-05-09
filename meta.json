@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/singularperturbation/base62-encode",
   "refs": [
-    "fatal: unable to access 'https://github.com/singularperturbation/base62-encode/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/singularperturbation/base62-encode/': SSL connection timeout",
     ""
   ],
   "heads": []
